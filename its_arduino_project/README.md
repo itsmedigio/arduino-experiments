@@ -20,6 +20,7 @@ Utilizzo poi le librerie per il sensore DHT11 della Grove.
 NodeRED versione 1.1.3
 
 **Alcune immagini della lampada**
+
 La dashboard di NodeRED
 ![La dashboard di NodeRED](https://github.com/itsmedigio/arduino-experiments/blob/master/its_arduino_project/img/lamp_gui.png)
 
