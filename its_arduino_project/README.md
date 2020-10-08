@@ -1,3 +1,4 @@
+
 # Progetto Arduino per ITS 
 
 Qua potete scaricare il mio progetto per ITS, una semplice lampada comandata tramite **NodeRED**.
@@ -16,8 +17,14 @@ Alla lampada è inoltre collegato un display  OLED SSD1306 in cui vengono visual
 **Cosa ho utilizzato?**
 Utilizzo le librerie Adafruit 1306 per il display e sempre da Adafruit quelle di Neopixel, per controllare il ring RGB che nel mio caso ha 20 led. 
 Utilizzo poi le librerie per il sensore DHT11 della Grove.
+NodeRED versione 1.1.3
 
 **Alcune immagini della lampada**
-
+La dashboard di NodeRED
 ![La dashboard di NodeRED](https://github.com/itsmedigio/arduino-experiments/blob/master/its_arduino_project/img/lamp_gui.png)
 
+L'Arduino e i suoi moduli
+![L'Arduino](https://github.com/itsmedigio/arduino-experiments/blob/master/its_arduino_project/img/the_arduino.jpg)
+
+La lampada (inserita in una bottiglia di plastica, e come base un vecchio pezzo di clarinetto)
+![The lamp](https://github.com/itsmedigio/arduino-experiments/blob/master/its_arduino_project/img/the_lamp.jpg)
